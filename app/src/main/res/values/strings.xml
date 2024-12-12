@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">LeafWatch</string>
+
+    <!-- Fragment -->
+    <string name="analyze">Analyze</string>
+    <string name="logout">Logout</string>
+    <string name="success_logout">Apakah yakin ingin keluar?</string>
+    <string name="success_delete">Apakah yakin ingin menghapus semua?</string>
+    <string name="yes_alert">Ya</string>
+    <string name="no_alert">Tidak</string>
+    <string name="dummy_name">Banu Eka Prayoga</string>
+    <string name="delete">Delete All</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribe_desc">Ayo Berlangganan!</string>
+    <string name="free_subscribe">Free Plan</string>
+    <string name="free_fitur">10 Scan/day</string>
+    <string name="free_cost">Gratis</string>
+    <string name="basic_subscribe">Basic Plan</string>
+    <string name="basic_fitur">50 Scan/Hari</string>
+    <string name="basic_cost">Rp. 160.000/Bulan</string>
+    <string name="professional_subscribe">Professional Plan</string>
+    <string name="professional_fitur">100 Scan/Hari</string>
+    <string name="professional_cost">Rp. 300.000/Bulan</string>
+    <string name="enterprise_subscribe">Enterprise Plan</string>
+    <string name="enterprise_fitur">100 Scan/Hari</string>
+    <string name="enterprise_cost">Rp. 1.350.000/Bulan</string>
+    <string name="beli_langganan">Beli Langganan</string>
+
+
+    <!-- Activity -->
+    <string name="login">Login</string>
+    <string name="detail">Detail</string>
+    <string name="result">Result</string>
+    <string name="success_login">Login Berhasil!</string>
+    <string name="next_alert">Next</string>
+    <string name="warning_email_password_wrong">Email atau Password salah</string>
+    <string name="dummy_text">Aglaonema </string>
+    <string name="description_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry s standard dummy text ever since the 1500s,</string>
+    <string name="title_login_page">Sudah siap?</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confPassword">Konfirmasi Password</string>
+    <string name="dont_have_account">Dont have an account yet?</string>
+    <string name="register">Register Here!</string>
+    <string name="title_welcome_page">Selamat datang di LeafWatch!</string>
+    <string name="message_welcome_page">Mau identifikasi penyakit pada tanaman? Gasss...</string>
+    <string name="signup">Register</string>
+    <string name="edit">Edit</string>
+    <string name="name_view">Nama</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="save">Save</string>
+    <string name="profile">PROFILE</string>
+    <string name="birth">Tanggal Lahir</string>
+    <string name="success_register">Register Success, Please Login!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="login_here">Login Here!</string>
+    <string name="recommend_videos">Related Videos</string>
+    <string name="dummy_name_result">Apple___Apple_scab</string>
+    <string name="dummy_predict_result">90%</string>
+    <string name="dummy_keterangan_result">Jamur Venturia inaequalis, kondisi kelembaban tinggi</string>
+    <string name="dummy_link">https://www.youtube.com/watch?v=KUXGyLtu84Q
+</string>
+
+    <!-- Warning String -->
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_history">History</string>
+    <string name="dummy_result">Penyakit Bercak Hitam : 99%</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="gallery">Gallery</string>
+    <string name="input_email">Masukkan Email</string>
+
+    <!-- List Adapter -->
+    <string name="title_text">Title</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="input_confpass">Masukkan Konfirmasi Password</string>
+    <string name="warning_failed_register">Failed Create Account</string>
+    <string name="input_birth">Masukkan Tanggal Lahir</string>
+
+    <!-- Warning String -->
+    <string name="input_name">Masukkan Nama</string>
+    <string name="success_save">Berhasil Menyimpan</string>
+    <string name="pick_image_alert">Pick Image!</string>
+    <string name="success_pick_image">Success Pick Image</string>
+    <string name="failed_pick_image">No Media Selected</string>
+    <string name="message_pick_image">Pick Image From?</string>
+    <string name="warning_email">Format email tidak valid</string>
+    <string name="warning_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="scan_failed_message">Upload gagal, silahkan coba lagi.</string>
+
+    <string name="male">Laki-Laki</string>
+    <string name="female">Perempuan</string>
+
+    <string-array name="data_nama">
+        <item>Apple Scab</item>
+        <item>Apple Cedar Rust</item>
+        <item>Corn Common Rust</item>
+        <item>Potato Early Blight</item>
+        <item>Tomato Early Blight</item>
+        <item>Tomato Yellow Curl Virus</item>
+    </string-array>
+
+    <string-array name="data_description">
+<item>Deskripsi: Kudis apel adalah penyakit jamur yang terutama memengaruhi pohon apel dan apel liar, menyebabkan lesi hitam yang tidak rata pada daun, buah, dan cabang. Jamur Venturia inaequalis berkembang pada kondisi musim semi yang dingin dan lembab, menciptakan bercak yang tidak menarik yang dapat secara signifikan mengurangi kualitas buah dan kesehatan pohon.
+            Penyebab: Jamur Venturia inaequalis, yang bertahan hidup di daun yang jatuh dan bahan tanaman yang terinfeksi. Menjadi aktif selama periode kelembaban tinggi dan suhu antara 55-75°F (13-24°C).
+            Pencegahan:
+            Pilih dan tanam varietas apel yang tahan terhadap kudis
+            Pastikan jarak tanam dan pemangkasan pohon untuk meningkatkan sirkulasi udara
+            Hapus dan musnahkan daun yang jatuh pada musim gugur untuk mengurangi sumber spora jamur
+            Pengobatan:
+            Aplikasikan fungisida yang mengandung tembaga atau belerang pada awal musim semi
+            Pangkas pohon untuk membuka tajuk dan mengurangi retensi kelembaban
+            Gunakan minyak hortikultura untuk membunuh spora jamur yang bertahan hidup
+    </item>
+        <item>Deskripsi: Karat apel cedar adalah penyakit jamur kompleks yang memerlukan dua inang berbeda untuk siklus hidupnya. Menyebabkan bercak kuning hingga oranye pada daun apel dan pembengkakan gall pada pohon cedar/juniper, secara signifikan melemahkan kedua jenis pohon.
+            Penyebab: Jamur Gymnosporangium juniperi-virginianae yang membutuhkan inang alternatif (cedar/juniper dan pohon apel) untuk menyelesaikan siklus hidupnya.
+            Pencegahan:
+            Tanam varietas apel yang tahan terhadap karat
+            Hapus pohon cedar/juniper yang terinfeksi di sekitar kebun apel
+            Jaga jarak antara pohon apel dan cedar/juniper
+            Pilih lokasi penanaman dengan sirkulasi udara yang baik
+            Pengobatan:
+            Gunakan fungisida yang mengandung tembaga atau sulfur pada saat tunas mulai berkembang
+            Lakukan pemangkasan pada bagian tanaman yang terinfeksi
+            Pertimbangkan untuk menghilangkan pohon cedar/juniper yang dekat dengan kebun apel jika infeksi parah
+        </item>
+        <item>Deskripsi: Karat umum pada jagung adalah penyakit jamur yang menghasilkan pustula cokelat kemerahan pada daun, batang, dan tongkol. Infeksi parah dapat menyebabkan daun menjadi kering dan menurunkan hasil panen.
+            Penyebab: Jamur Puccinia sorghi yang berkembang dengan baik pada kondisi kelembaban tinggi dan suhu sejuk hingga hangat.
+            Pencegahan:
+            Pilih varietas jagung yang tahan terhadap karat
+            Lakukan rotasi tanaman
+            Hindari menanam jagung terlalu rapat
+            Pertahankan kebersihan lahan dengan membuang sisa tanaman
+            Pengobatan:
+            Gunakan fungisida berbasis azoksistrobin atau mankozeb
+            Lakukan pemangkasan dan musnahkan bagian tanaman yang terinfeksi
+            Pertimbangkan penanaman pada waktu yang berbeda untuk menghindari kondisi optimal perkembangan jamur
+    </item>
+        <item>Deskripsi: Penyakit jamur yang menyerang daun dan batang kentang, menyebabkan bercak cokelat dengan lingkaran konsentris yang dapat merusak daun dan mengurangi hasil panen.
+            Penyebab: Jamur Alternaria solani yang berkembang pada kondisi hangat dan lembab.
+            Pencegahan:
+            Gunakan benih kentang yang sehat dan bersertifikat
+            Lakukan rotasi tanaman
+            Hindari pengairan dari atas yang membasahi daun
+            Pertahankan jarak tanam untuk sirkulasi udara yang baik
+            Pengobatan:
+            Aplikasikan fungisida berbasis mancozeb atau azoksistrobin
+            Lakukan pemangkasan dan musnahkan bagian tanaman yang terinfeksi
+            Gunakan mulsa untuk mengurangi percikan tanah ke daun
+        </item>
+        <item>Deskripsi: Penyakit jamur yang menyerang daun, batang, dan buah tomat, ditandai dengan bercak cokelat bergaris konsentris yang dapat menyebabkan kerusakan daun dan mengurangi hasil panen.
+            Penyebab: Jamur Alternaria solani yang berkembang dengan baik pada kondisi kelembaban tinggi dan suhu sedang.
+            Pencegahan:
+            Gunakan benih atau bibit tomat yang sehat
+            Lakukan rotasi tanaman
+            Hindari pengairan dari atas yang membasahi daun
+            Pertahankan jarak tanam untuk sirkulasi udara yang baik
+            Pengobatan:
+            Aplikasikan fungisida berbasis mancozeb atau klorotalonil
+            Lakukan pemangkasan sanitasi untuk menghilangkan bagian tanaman yang terinfeksi
+            Gunakan mulsa untuk mengurangi percikan tanah ke daun
+    </item>
+        <item>Deskripsi: Penyakit virus yang menyerang tanaman tomat, menyebabkan daun mengeriting, mengkerut, dan berubah warna menjadi kuning. Tanaman yang terinfeksi mengalami pertumbuhan terhambat dan hasil panen sangat berkurang.
+            Penyebab: Virus yang disebarkan oleh kutu kebul (Bemisia tabaci)
+            Pencegahan:
+            Gunakan benih atau bibit tomat yang bebas virus
+            Kendalikan populasi kutu kebul dengan perangkap lengket atau insektisida
+            Gunakan tanaman penutup atau penghalang untuk membatasi pergerakan serangga
+            Musnahkan tanaman inang alternatif di sekitar area pertanaman
+            Pengobatan:
+            Tidak ada pengobatan langsung untuk virus
+            Segera cabut dan musnahkan tanaman yang terinfeksi
+            Gunakan varietas tomat yang tahan terhadap virus
+            Lakukan pengendalian vektor (kutu kebul) secara intensif
+</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/applescab1</item>
+        <item>@drawable/applecedarrust2</item>
+        <item>@drawable/corncommonrust1</item>
+        <item>@drawable/potatoearlyblight1</item>
+        <item>@drawable/tomatoearlyblight1</item>
+        <item>@drawable/tomatoyellowcurlvirus1</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
